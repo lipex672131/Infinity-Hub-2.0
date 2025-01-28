@@ -109,4 +109,4 @@ Section:NewKeybind("Keybind", "TO CLOSE AND OPEN UI", Enum.KeyCode.LeftControl, 
 	Library:ToggleUI()
 end)
 
-Section:NewLabel("MADE BY LIPEX")# Infinity-Hub-2.0
+Section:NewLabel("MADE BY LIPEX")
